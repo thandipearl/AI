@@ -3,22 +3,19 @@
 
 **What can data tell us about how big tech companies are investing in AI… and what they’re getting back from it?**
 
-That question led me to this project.
 
 In this analysis, I worked with data from three major companies:
 - Google  
 - OpenAI  
 - Meta  
 
-Each of them is racing to lead in artificial intelligence. But instead of guessing who is ahead, I used data to explore their story.
+Each of them is racing to lead in artificial intelligence.
 
 ---
 
-## What I Explored
 
-I treated this dataset like a story waiting to be told. Here’s how I broke it down:
 
-### 1. Who is spending the most on innovation?
+## 1. Who is spending the most on innovation?
 
 I looked at how much each company is investing in research and development.
 
@@ -27,7 +24,7 @@ I looked at how much each company is investing in research and development.
 - Meta follows behind  
 - OpenAI is investing much less in comparison  
 
-This already tells a story about scale and resources.
+This already tells us about scale and resources.
 
 ---
 
@@ -117,32 +114,4 @@ I looked at:
 - Matplotlib  
 - Seaborn  
 
----
 
-## What I Learned
-
-This project taught me that:
-
-- Data is not just numbers, it tells a story  
-- Trends over time reveal powerful insights  
-- Visuals make complex ideas easier to understand  
-- Asking good questions is more important than using complex tools  
-
----
-
-## Final Thoughts
-
-This was more than just a project.
-
-It was my way of practicing how to think like a data analyst:
-- Be curious  
-- Explore patterns  
-- Tell a clear story  
-
-And most importantly:
-
-**Turn data into something people can understand.**
-
----
-
-If you made it this far, thank you for reading 
